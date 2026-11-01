@@ -1,0 +1,14 @@
+C:\Users\feertch\projects\IFP-7\bin\Debug\net10.0\ExceptionHandling.exe
+C:\Users\feertch\projects\IFP-7\bin\Debug\net10.0\ExceptionHandling.deps.json
+C:\Users\feertch\projects\IFP-7\bin\Debug\net10.0\ExceptionHandling.runtimeconfig.json
+C:\Users\feertch\projects\IFP-7\bin\Debug\net10.0\ExceptionHandling.dll
+C:\Users\feertch\projects\IFP-7\bin\Debug\net10.0\ExceptionHandling.pdb
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ExceptionHandling.dll
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\refint\ExceptionHandling.dll
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ExceptionHandling.pdb
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\feertch\projects\IFP-7\obj\Debug\net10.0\ref\ExceptionHandling.dll
